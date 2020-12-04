@@ -1,4 +1,4 @@
-# Face-Recognition-Part-2
+# Aim
 Build a face recognition system using OpenCV and Deep Learning.
 
 # Highlights
