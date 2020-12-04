@@ -8,3 +8,6 @@ Build a face recognition system using OpenCV and Deep Learning.
 4. The model trained is would be used in the "facerecognition" file
 5. Enjoy!
 
+# Improves needed
+1. Building it's accuracy
+2. And any other thing you feel should be added to make it better
